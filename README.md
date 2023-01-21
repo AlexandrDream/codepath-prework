@@ -6,7 +6,7 @@ Simple iOS App that introduces the student
 
 ### App Walk-though
 
-<!-- <img src="https://user-images.githubusercontent.com/98363672/213870658-900303c7-2016-4c38-bd22-b9832d2e1301.gif" width=200><br>
+<img src="https://user-images.githubusercontent.com/98363672/213870658-900303c7-2016-4c38-bd22-b9832d2e1301.gif" width=200><br>
 
 ### Required Features
 
